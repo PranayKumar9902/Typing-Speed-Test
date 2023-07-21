@@ -15,3 +15,8 @@ for both individuals and companies alike.
 
 ● Learning how to type fast and help you save time, increase 
 productivity and improve your focus.
+
+## Screenshot
+WEBSITE LOOKS LIKE :
+
+[![Screenshot-10.png](https://i.postimg.cc/VNpyJN8v/Screenshot-10.png)](https://postimg.cc/p9fc7RyM)
