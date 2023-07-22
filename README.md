@@ -20,3 +20,16 @@ productivity and improve your focus.
 WEBSITE LOOKS LIKE :
 
 [![Screenshot-10.png](https://i.postimg.cc/VNpyJN8v/Screenshot-10.png)](https://postimg.cc/p9fc7RyM)
+
+
+## USAGE  
+
+● We have given a select number of words for this game.
+● There are 3 difficulty levels, easy, medium and hard.
+● There will be a word given on the screen and you are supposed to type 
+the given word in the time left and when you type the word correctly the 
+time left increases by 2 sec when the difficulty level is hard, 3 secs when 
+it is medium and 5 secs when it is easy. The score increases by one each 
+time.
+● The score will be displayed once the timer ends
+
